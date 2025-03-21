@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class FlashlightController : MonoBehaviour
 {
@@ -8,16 +9,19 @@ public class FlashlightController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.F))
+        // Cek apakah tombol F ditekan dalam frame ini
+        if (Keyboard.current.fKey.wasPressedThisFrame && flashlight != null)
         {
             flashlight.enabled = !flashlight.enabled;
         }
 
-        if (flashlight.enabled)
+        // Jika senter menyala, kurangi baterai
+        if (flashlight != null && flashlight.enabled)
         {
             batteryLife -= drainRate * Time.deltaTime;
             if (batteryLife <= 0)
             {
+                batteryLife = 0;
                 flashlight.enabled = false;
             }
         }
