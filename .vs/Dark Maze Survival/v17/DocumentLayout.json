@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "E:\\Unity\\Project\\Dark Maze Survival\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A8C2E-090E-4531-EA1E-A8D7B45EEE52}|Assembly-CSharp.csproj|e:\\unity\\project\\dark maze survival\\assets\\scripts\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A8C2E-090E-4531-EA1E-A8D7B45EEE52}|Assembly-CSharp.csproj|e:\\unity\\project\\dark maze survival\\assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A8C2E-090E-4531-EA1E-A8D7B45EEE52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A8C2E-090E-4531-EA1E-A8D7B45EEE52}|Assembly-CSharp.csproj|e:\\unity\\project\\dark maze survival\\assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A8C2E-090E-4531-EA1E-A8D7B45EEE52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A8C2E-090E-4531-EA1E-A8D7B45EEE52}|Assembly-CSharp.csproj|E:\\Unity\\Project\\Dark Maze Survival\\assets\\scripts\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A8C2E-090E-4531-EA1E-A8D7B45EEE52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExitTrigger.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\Dark Maze Survival\\Assets\\Scripts\\ExitTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExitTrigger.cs",
+              "ToolTip": "E:\\Unity\\Project\\Dark Maze Survival\\Assets\\Scripts\\ExitTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExitTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:50:41.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\Dark Maze Survival\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseLook.cs",
+              "ToolTip": "E:\\Unity\\Project\\Dark Maze Survival\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:41:55.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MonsterAI.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Maze Survival\\Assets\\Scripts\\MonsterAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MonsterAI.cs",
@@ -34,12 +68,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MonsterAI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T07:51:36.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T07:51:36.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FlashlightController.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Maze Survival\\Assets\\Scripts\\FlashlightController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FlashlightController.cs",
@@ -51,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\Dark Maze Survival\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",

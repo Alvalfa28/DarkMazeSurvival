@@ -61,6 +61,8 @@
     <Analyzer Include="E:\Unity\Unity Hub\Hub\Editor\6000.0.39f1-x86_64\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\Scripts\ExitTrigger.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\FlashlightController.cs" />
     <Compile Include="Assets\Scripts\MonsterAI.cs" />
